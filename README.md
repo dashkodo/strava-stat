@@ -1,0 +1,2 @@
+# strava-stat
+Strava addin
